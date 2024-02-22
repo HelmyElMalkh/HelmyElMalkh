@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @HelmyElMalkh
 - 👀 I’m interested in software engineering (ML,CV and NLP)
-- 🌱 I’m currently learning Langchain
+- 🌱 I’m currently machine learning engineer at Odlica.
 - 📫 How to reach me : helmy.elmalkh1963@gmail.com
 
 <!---
